@@ -63,6 +63,6 @@ npm run dev
 ## 🌍 Deployment
 
 This project is deployed on Vercel:
-👉 Live Demo
+👉 banao-mern-stack-assign.vercel.app
 
 
